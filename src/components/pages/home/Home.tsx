@@ -19,7 +19,7 @@ function Home() {
     }
   };
 
-  const handleMouseOver = (regionId: string) => {};
+  const handleMouseOver = () => {};
 
   const handleMouseOut = () => {};
 
