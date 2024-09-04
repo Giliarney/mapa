@@ -9,4 +9,8 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  server: {
+    port: 10000, // Porta padrão para o Render
+    host: true,  // Permite acesso de rede
+  },
 })
