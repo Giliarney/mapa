@@ -1,0 +1,14 @@
+.region {
+    cursor: pointer;
+    fill: #ddd; /* Cor padrão das regiões */
+    transition: fill 0.3s;
+    stroke: aliceblue;
+  }
+  
+  .region:hover {
+    fill: #007bff; /* Cor ao passar o mouse */
+  }
+  
+  .region.active {
+    fill: #0056b3; /* Cor quando ativa */
+  }

@@ -1,0 +1,6483 @@
+{
+"dados":[
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.07,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.07,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.07,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.07,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.07,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "ES",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.0115,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.1268,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.1268,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.1268,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.1268,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.1268,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Cogelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "BA",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.205,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.205,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.205,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PE",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.2,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango In Natura",
+    "NCM": "0810.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.2,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.2,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Importado Egito",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.04,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.2,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Comércio",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MG",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RJ",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "ES",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MT",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MS",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "GO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "DF",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "BA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "SE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AL",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PB",
+    "Pagamento ICMS": 0.2,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RN",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "CE",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "MA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PI",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "PA",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RR",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AM",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AP",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "RO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "TO",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    },
+    {
+    "Produto": "Morango Congelado",
+    "NCM": "0811.10.00",
+    "Origem": "Nacional",
+    "Destino": "Indústria",
+    "UF Origem": "PB",
+    "UF Destino": "AC",
+    "Pagamento ICMS": 0.12,
+    "Pagamento PIS\/COFINS": 0
+    }
+]}

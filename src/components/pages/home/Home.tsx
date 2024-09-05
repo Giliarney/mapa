@@ -9,14 +9,19 @@ function Home() {
   const [buttonText, setButtonText] = useState('Selecione a Origem');
 
   const handleRegionClick = (regionId: string) => {
+
     if (selectedOrigin === null) {
       setSelectedOrigin(regionId);
       setButtonText('Selecione o Destino');
     } else if (selectedDestination === null) {
       setSelectedDestination(regionId);
-    } else {
-      navigate(`/details/${selectedOrigin}/${selectedDestination}`);
     }
+
+
+    if (selectedDestination !== null) {
+      setSelectedDestination(null)
+    }
+
   };
 
   const handleMouseOver = () => {};
@@ -30,8 +35,8 @@ function Home() {
   ];
 
   return (
-    <div className='w-screen h-screen'>
-      <header className="w-screen h-16 bg-slate-100 flex items-center justify-center">
+    <div className='w-screen h-screen bg-slate-50'>
+      <header className="w-screen h-16 bg-white flex items-center justify-center">
         <div>
           <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-32' />
         </div>
@@ -45,21 +50,21 @@ function Home() {
         <div className='py-12'>
             {selectedOrigin && selectedDestination && (
               <button
-                className='h-[48px] w-[240px] bg-slate-400 rounded text-base'
-                onClick={() => navigate(`/details/${selectedOrigin}/${selectedDestination}`)}
+                className='h-[48px] w-[240px] border bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'
+                onClick={() => navigate(`/details`)}
               >
                 Ver Informações
               </button>
             )}
-
-
         </div>
+
           <BrazilMap
             onRegionClick={handleRegionClick}
             onRegionMouseOver={handleMouseOver}
             onRegionMouseOut={handleMouseOut}
             selectedRegions={selectedRegions}
           />
+          
       </div>
     </div>
   );

@@ -9,8 +9,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/region/:regionId" element={<RegionPage />} />
-
+        <Route path="/details" element={<RegionPage />}/>
       </Routes>
     </Router>
   );
