@@ -23,7 +23,7 @@ const RegionPage: React.FC = () => {
         <div className='w-[640px] flex flex-col justify-center items-center'>
           <div className=' flex items-start place-self-start px-4'>
             <Button className='w-12 h-12 rounded-full px-0 py-0'>
-              <CircleArrowLeft className='w-14 h-14 p-1 text-slate-400 hover:bg-slate-900 hover:rounded hover:text-white' onClick={() => navigate(`/`)} />
+              <CircleArrowLeft className='w-14 h-14 p-1 text-slate-400 hover:bg-slate-900 hover:rounded hover:text-white' onClick={() => navigate("/")} />
             </Button>
           </div>
 
