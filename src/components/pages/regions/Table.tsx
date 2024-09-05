@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
 import { useQuery } from "@tanstack/react-query";
+import { useSearchParams } from "react-router-dom"; 
 
 export interface responseDados {
   first: number;
@@ -27,11 +28,13 @@ export interface Dados {
 
 function TableInfos() {
   const [currentPage, setCurrentPage] = useState(1);
+  const [searchParams] = useSearchParams();
+  const selectedOrigin = searchParams.get("origin");
 
   const { data: dadosReponse, isLoading } = useQuery<responseDados>({
-    queryKey: ["get-dados", currentPage],
+    queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const response = await fetch(`http://localhost:3341/dados?_page=${currentPage}&_per_page=15`);
+      const response = await fetch(`http://localhost:3341/dados?_page=${currentPage}&_per_page=15&UF%20Origem=${selectedOrigin}`);
       const data = await response.json();
       return data;
     },

@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import BrazilMap from '@/components/brazilmap/BrazilMap';
+import {CircleChevronRight} from "lucide-react"
 
 function Home() {
   const navigate = useNavigate();
@@ -18,9 +19,9 @@ function Home() {
     }
 
 
-    if (selectedDestination !== null) {
+    {/*if (selectedDestination !== null) {
       setSelectedDestination(null)
-    }
+    }*/}
 
   };
 
@@ -33,6 +34,11 @@ function Home() {
     ...(selectedOrigin ? [selectedOrigin] : []),
     ...(selectedDestination ? [selectedDestination] : [])
   ];
+
+  function clearRegions () {
+    setSelectedOrigin(null)
+    setSelectedDestination(null)
+  }
 
   return (
     <div className='w-screen h-screen bg-slate-50'>
@@ -47,15 +53,31 @@ function Home() {
           <h1 className='text-3xl'>{buttonText}</h1>
         </div>
 
-        <div className='py-12'>
-            {selectedOrigin && selectedDestination && (
-              <button
-                className='h-[48px] w-[240px] border bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'
-                onClick={() => navigate(`/details`)}
-              >
-                Ver Informações
-              </button>
-            )}
+        <div className='py-12 flex gap-2'>
+          {selectedOrigin && selectedDestination && (
+            <div className='h-[48px] w-[180px] flex justify-center items-center  bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'>
+              
+                <button
+                  className='flex justify-between  gap-2'
+                  onClick={() => navigate(`/details?origin=${selectedOrigin}`)}
+                >
+                  Ver Informações
+                  <CircleChevronRight></CircleChevronRight>
+
+                </button>
+            </div>
+          )}
+
+          {selectedOrigin && selectedDestination && (              
+            <div>
+                <button
+                  className='h-[48px] w-[80px] border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl text-base'
+                  onClick={clearRegions}
+                >
+                  Limpar
+                </button>
+            </div>
+          )}
         </div>
 
           <BrazilMap

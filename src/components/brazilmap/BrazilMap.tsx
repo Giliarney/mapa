@@ -379,10 +379,10 @@ return (
       <g key={region.id}>
         <path
             d={region.d}
-            fill={selectedRegions.includes(region.id)  ? 'lightgreen' : hoveredRegion === region.id ? 'lightgreen' : '#C2DFE3'}
+            fill={selectedRegions.includes(region.values)  ? 'lightgreen' : hoveredRegion === region.values ? 'lightgreen' : '#C2DFE3'}
             stroke="white"
             strokeWidth="1"
-            onClick={() => onRegionClick(region.id)}
+            onClick={() => onRegionClick(region.values)}
             onMouseOver={() => {
               setHoveredRegion(region.id);
               onRegionMouseOver(region.id);
