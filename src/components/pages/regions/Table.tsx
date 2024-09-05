@@ -34,8 +34,7 @@ function TableInfos() {
   const { data: dadosReponse, isLoading, error } = useQuery<responseDados>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const apiUrl = process.env.REACT_APP_API_URL;
-      const response = await fetch(`${apiUrl}?_page=${currentPage}&UF%20Origem=${selectedOrigin}`);
+      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&UF%20Origem=${selectedOrigin}`);
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
