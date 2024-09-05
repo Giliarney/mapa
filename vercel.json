@@ -1,12 +1,12 @@
 {
     "functions": {
-      "./*.js": {
+      "mapa/api/*.js": {
         "memory": 128,
         "maxDuration": 10
       }
     },
     "routes": [
-      { "src": "/.*", "dest": "./server.js" }
+      { "src": "/.*", "dest": "/mapa/api/server.js" }
     ]
   }
   
