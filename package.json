@@ -4,12 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "npm run server", 
+    "start": "json-server --watch dados.json --port $PORT",
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "server": "json-server --watch dados.json --port $PORT",
-    "preview": "vite preview --port 10000"
+    "lint": "eslint ."
   },
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.0",
