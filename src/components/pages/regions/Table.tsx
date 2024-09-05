@@ -34,7 +34,7 @@ function TableInfos() {
   const { data: dadosReponse, isLoading } = useQuery<responseDados>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const response = await fetch(`/dados?_page=${currentPage}&_per_page=15&UF%20Origem=${selectedOrigin}`);
+      const response = await fetch(`https://mapa-69xg.onrender.com/dados?_page=${currentPage}&_per_page=15`);
       const data = await response.json();
       return data;
     },
