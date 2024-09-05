@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
 import { useQuery } from "@tanstack/react-query";
-import { useSearchParams } from "react-router-dom"; 
+import { useSearchParams } from "react-router-dom";
 
 export interface responseDados {
   first: number;
@@ -31,18 +31,28 @@ function TableInfos() {
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
 
-  const { data: dadosReponse, isLoading } = useQuery<responseDados>({
+  const { data: dadosReponse, isLoading, error } = useQuery<responseDados>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
       const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&UF%20Origem=${selectedOrigin}`);
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
       const data = await response.json();
       return data;
     },
   });
 
   if (isLoading) {
-    return null;
+    return <div>Loading...</div>;
   }
+
+  if (error) {
+    return <div>Error: {error.message}</div>;
+  }
+
+  // Verifica se dadosReponse e dadosReponse.data são definidos e se dadosReponse.data é um array
+  const data = dadosReponse?.data || [];
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
@@ -65,18 +75,24 @@ function TableInfos() {
                 </TableRow>
             </TableHeader>
             <TableBody>
-                {dadosReponse?.data.map((item, index) => (
-                <TableRow key={index} className="hover:bg-slate-200">
-                    <TableCell>{item.Produto}</TableCell>
-                    <TableCell>{item.NCM}</TableCell>
-                    <TableCell>{item.Origem}</TableCell>
-                    <TableCell>{item.Destino}</TableCell>
-                    <TableCell>{item["UF Origem"]}</TableCell>
-                    <TableCell>{item["UF Destino"]}</TableCell>
-                    <TableCell>{item["Pagamento ICMS"]}</TableCell>
-                    <TableCell>{item["Pagamento PIS/COFINS"]}</TableCell>
-                </TableRow>
-                ))}
+                {data.length > 0 ? (
+                    data.map((item) => (
+                        <TableRow key={item.id} className="hover:bg-slate-200">
+                            <TableCell>{item.Produto}</TableCell>
+                            <TableCell>{item.NCM}</TableCell>
+                            <TableCell>{item.Origem}</TableCell>
+                            <TableCell>{item.Destino}</TableCell>
+                            <TableCell>{item["UF Origem"]}</TableCell>
+                            <TableCell>{item["UF Destino"]}</TableCell>
+                            <TableCell>{item["Pagamento ICMS"]}</TableCell>
+                            <TableCell>{item["Pagamento PIS/COFINS"]}</TableCell>
+                        </TableRow>
+                    ))
+                ) : (
+                    <TableRow>
+                        <TableCell colSpan={8}>Nenhum dado disponível</TableCell>
+                    </TableRow>
+                )}
             </TableBody>
             </Table>
         </div>
@@ -88,7 +104,7 @@ function TableInfos() {
                 </div>
 
                 <div className="flex items-center">
-                    <span>Total de Items: {dadosReponse?.items}</span>
+                    <span>Total de Itens: {dadosReponse?.items}</span>
                 </div>
             </div>
 
@@ -106,10 +122,10 @@ function TableInfos() {
                         />
                     </PaginationItem>
 
-                    <PaginationItem >
+                    <PaginationItem>
                         <PaginationLink
                             href="#"
-                            className={currentPage + 1 === currentPage ? "active" : ""}
+                            className={currentPage === dadosReponse.pages ? "active" : ""}
                         >
                             {currentPage}
                         </PaginationLink>
