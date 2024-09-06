@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
@@ -27,13 +27,39 @@ export interface Dados {
   id: string;
 }
 
-
-
 function TableInfos() {
   const [currentPage, setCurrentPage] = useState(1);
+  const [totalPages, setTotalPages] = useState<number | null>(null); // Total de páginas
+  const [totalItems, setTotalItems] = useState<number | null>(null); // Total de itens
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
 
+  // Função para carregar a página e capturar o número total de páginas e itens
+  const loadPage = async (page: number) => {
+    const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${page}&_limit=15&UF%20Origem=${selectedOrigin}`);
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    const data = await response.json();
+
+    // Capturar o número total de itens a partir do cabeçalho, se disponível
+    const totalItemsHeader = response.headers.get("X-Total-Count"); // Exemplo de cabeçalho
+    if (totalItemsHeader) {
+      const total = Number(totalItemsHeader);
+      setTotalItems(total);
+
+      // Calcular o número total de páginas
+      const pages = Math.ceil(total / 15); // Assumindo 15 itens por página
+      setTotalPages(pages);
+    }
+
+    // Se houver dados, permitir a navegação, caso contrário, bloquear
+    if (data.length > 0) {
+      setCurrentPage(page);
+    }
+  };
+
+  // Carrega a página atual usando `useQuery`
   const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
@@ -42,24 +68,33 @@ function TableInfos() {
         throw new Error('Network response was not ok');
       }
       const data = await response.json();
-      
-      await new Promise( resolve => setTimeout(resolve, 100))
+
+      // Capturar o total de itens (ou páginas) da resposta
+      const totalItemsHeader = response.headers.get("X-Total-Count");
+
+      if (totalItemsHeader && !totalItems) {
+        const total = Number(totalItemsHeader);
+        setTotalItems(total);
+
+        // Calcular e definir o número total de páginas
+        const pages = Math.ceil(total / 15);
+        setTotalPages(pages);
+      }
+
+      await new Promise(resolve => setTimeout(resolve, 100));
 
       return data;
     },
     placeholderData: keepPreviousData,
-
   });
-
-  console.log(dadosResponse);
 
   if (isLoading) {
     return (
       <div className="flex flex-col items-center justify-center">
         <BeatLoader color="#36d7b7" size={30} />
         <span>Carregando...</span>
-    </div>
-  );
+      </div>
+    );
   }
 
   if (error) {
@@ -68,8 +103,10 @@ function TableInfos() {
 
   const data = dadosResponse || [];
 
-  const handlePageChange = (page: number) => {
-    setCurrentPage(page);
+  const handlePageChange = async (page: number) => {
+    if (page > 0 && (!totalPages || page <= totalPages)) {
+      await loadPage(page);
+    }
   };
 
   return (
@@ -113,7 +150,16 @@ function TableInfos() {
             </Table>
         </div>
 
-        <div className="w-full flex items-center justify-center rounded py-4 px-2 bg-slate-200">
+        <div className="w-full flex items-center justify-between rounded py-4 px-2 bg-slate-200">
+            <div className="flex items-center justify-between w-64">
+                <div className="flex items-center">
+                    <span>Páginas: {totalPages ?? 'Carregando...'}</span>
+                </div>
+                <div className="flex items-center">
+                    <span>Total de Itens: {totalItems ?? 'Carregando...'}</span>
+                </div>
+            </div>
+
             <div>
                 <Pagination className="w-fit bg-slate-500">
                     <PaginationContent>
@@ -139,7 +185,9 @@ function TableInfos() {
                     <PaginationItem>
                         <PaginationNext
                         href="#"
-                        onClick={() => data.length > 0 ? handlePageChange(currentPage + 1) : ''}
+                        onClick={() => handlePageChange(currentPage + 1)}
+                        className={(!totalPages || currentPage >= totalPages) ? "disabled" : ""}
+                        aria-disabled={(!totalPages || currentPage >= totalPages)}
                         />
                     </PaginationItem>
 
