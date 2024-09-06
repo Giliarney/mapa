@@ -20,7 +20,7 @@ interface MapRegion {
 const  BrazilMap: React.FC<{
     selectedRegions: string[];
   }> = ({selectedRegions }) => {
-    const [hoveredRegion, setHoveredRegion] = useState<string | null>(null);
+    const [hoveredRegion] = useState<string | null>(null);
 
     const regionData: { [key: string]: RegionData } = {
         'BR-AC': {
