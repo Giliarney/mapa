@@ -373,7 +373,7 @@ const BrazilMap: React.FC<{
 
 return (
   <svg
-   className="brazil-map sm:w-[615px] sm:h-[640px]"
+   className="brazil-map w-[320px] h-[355px] sm:w-[420px] sm:h-[455px] md:w-[615px] md:h-[640px]"
    viewBox='-15 0 650 650'
    >
     {mapRegions.map((region) => (

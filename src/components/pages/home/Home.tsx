@@ -51,19 +51,18 @@ function Home() {
 
       <div className='w-screen flex items-center justify-center flex-col py-8 px-8 bg-slate-100'>
         <div>
-          <h1 className='text-base sm:text-3xl'>{buttonText}</h1>
+          <h1 className='text-base sm:text-[24px] md:text-[32px]'>{buttonText}</h1>
         </div>
 
-        <div className='py-12 flex gap-2'>
+        <div className='w-full items-center justify-center h-12 py-12 flex gap-2 sm:w-[360px] sm:items-center sm:justify-center'>
           {selectedOrigin && selectedDestination && (
-            <div className='h-[48px] w-[180px] flex justify-center items-center  bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'>
-              
+            <div className='hover:text-slate-50'>
                 <button
-                  className='flex justify-between  gap-2'
+                  className='flex justify-center sm:gap-2 sm:text-base text-slate-700 h-10 w-36 sm:h-[48px] sm:w-[180px] items-center bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'
                   onClick={() => navigate(`/details?origin=${selectedOrigin}&destination=${selectedDestination}`)}
                 >
                   Ver Informações
-                  <CircleChevronRight></CircleChevronRight>
+                  <CircleChevronRight className='hidden sm:flex text-slate-500'></CircleChevronRight>
 
                 </button>
             </div>
@@ -72,7 +71,7 @@ function Home() {
           {selectedOrigin && selectedDestination && (              
             <div>
                 <button
-                  className='h-[48px] w-[80px] border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl text-base'
+                  className='text-slate-700 h-10 w-32 sm:h-[48px] sm:w-[80px] text-sm border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl sm:text-base'
                   onClick={clearRegions}
                 >
                   Limpar

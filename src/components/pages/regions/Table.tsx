@@ -137,8 +137,8 @@ function TableInfos() {
                                 <TableCell>{item.Destino}</TableCell>
                                 <TableCell>{item["UF Origem"]}</TableCell>
                                 <TableCell>{item["UF Destino"]}</TableCell>
-                                <TableCell>{item["Pagamento ICMS"]}</TableCell>
-                                <TableCell>{item["Pagamento PIS/COFINS"]}</TableCell>
+                                <TableCell>{item["Pagamento ICMS"]} %</TableCell>
+                                <TableCell>{item["Pagamento PIS/COFINS"]} %</TableCell>
                             </TableRow>
                         ))
                     ) : (
