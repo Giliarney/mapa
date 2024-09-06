@@ -1,8 +1,9 @@
 import { useState } from "react";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
-import { useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { useSearchParams } from "react-router-dom";
+import { BeatLoader } from 'react-spinners';
 
 export interface responseDados {
   first: number;
@@ -26,33 +27,46 @@ export interface Dados {
   id: string;
 }
 
+
+
 function TableInfos() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
 
-  const { data: dadosReponse, isLoading, error } = useQuery<responseDados>({
+  const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&UF%20Origem=${selectedOrigin}`);
+      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&_limit=15&UF%20Origem=${selectedOrigin}`);
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
       const data = await response.json();
+      
+      await new Promise( resolve => setTimeout(resolve, 100))
+
       return data;
     },
+    placeholderData: keepPreviousData,
+
   });
 
+  console.log(dadosResponse);
+
   if (isLoading) {
-    return <div>Loading...</div>;
+    return (
+      <div className="flex flex-col items-center justify-center">
+        <BeatLoader color="#36d7b7" size={30} />
+        <span>Carregando...</span>
+    </div>
+  );
   }
 
   if (error) {
     return <div>Error: {error.message}</div>;
   }
 
-  // Verifica se dadosReponse e dadosReponse.data são definidos e se dadosReponse.data é um array
-  const data = dadosReponse?.data || [];
+  const data = dadosResponse || [];
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
@@ -75,48 +89,39 @@ function TableInfos() {
                 </TableRow>
             </TableHeader>
             <TableBody>
-                {data.length > 0 ? (
-                    data.map((item) => (
-                        <TableRow key={item.id} className="hover:bg-slate-200">
-                            <TableCell>{item.Produto}</TableCell>
-                            <TableCell>{item.NCM}</TableCell>
-                            <TableCell>{item.Origem}</TableCell>
-                            <TableCell>{item.Destino}</TableCell>
-                            <TableCell>{item["UF Origem"]}</TableCell>
-                            <TableCell>{item["UF Destino"]}</TableCell>
-                            <TableCell>{item["Pagamento ICMS"]}</TableCell>
-                            <TableCell>{item["Pagamento PIS/COFINS"]}</TableCell>
+                {
+                    data.length > 0 ? (
+                        data.map((item, index) => (
+                            <TableRow key={index} className="hover:bg-slate-200">
+                                <TableCell>{item.Produto}</TableCell>
+                                <TableCell>{item.NCM}</TableCell>
+                                <TableCell>{item.Origem}</TableCell>
+                                <TableCell>{item.Destino}</TableCell>
+                                <TableCell>{item["UF Origem"]}</TableCell>
+                                <TableCell>{item["UF Destino"]}</TableCell>
+                                <TableCell>{item["Pagamento ICMS"]}</TableCell>
+                                <TableCell>{item["Pagamento PIS/COFINS"]}</TableCell>
+                            </TableRow>
+                        ))
+                    ) : (
+                        <TableRow>
+                            <TableCell colSpan={8} className="text-center">Nenhum dado encontrado</TableCell>
                         </TableRow>
-                    ))
-                ) : (
-                    <TableRow>
-                        <TableCell colSpan={8}>Nenhum dado disponível</TableCell>
-                    </TableRow>
-                )}
+                    )
+               }
             </TableBody>
             </Table>
         </div>
 
-        <div className="w-full flex items-center justify-between rounded py-4 px-2 bg-slate-200">
-            <div className="flex items-center justify-between w-64">
-                <div className="flex items-center">
-                    <span>Páginas: {dadosReponse?.pages}</span>
-                </div>
-
-                <div className="flex items-center">
-                    <span>Total de Itens: {dadosReponse?.items}</span>
-                </div>
-            </div>
-
+        <div className="w-full flex items-center justify-center rounded py-4 px-2 bg-slate-200">
             <div>
-                {dadosReponse && (
                 <Pagination className="w-fit bg-slate-500">
                     <PaginationContent>
 
                     <PaginationItem>
                         <PaginationPrevious
                         href="#"
-                        onClick={() => handlePageChange(dadosReponse.prev || 1)}
+                        onClick={() => handlePageChange(Math.max(currentPage - 1, 1))}
                         className={currentPage === 1 ? "disabled" : ""}
                         aria-disabled={currentPage === 1}
                         />
@@ -125,7 +130,7 @@ function TableInfos() {
                     <PaginationItem>
                         <PaginationLink
                             href="#"
-                            className={currentPage === dadosReponse.pages ? "active" : ""}
+                            className={currentPage ? "active" : ""}
                         >
                             {currentPage}
                         </PaginationLink>
@@ -134,15 +139,12 @@ function TableInfos() {
                     <PaginationItem>
                         <PaginationNext
                         href="#"
-                        onClick={() => handlePageChange(dadosReponse.next || dadosReponse.last)}
-                        className={currentPage === dadosReponse.pages ? "disabled" : ""}
-                        aria-disabled={currentPage === dadosReponse.pages}
+                        onClick={() => data.length > 0 ? handlePageChange(currentPage + 1) : ''}
                         />
                     </PaginationItem>
 
                     </PaginationContent>
                 </Pagination>
-                )}
             </div>
         </div>
     </div>
