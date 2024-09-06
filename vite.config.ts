@@ -10,7 +10,7 @@ export default defineConfig({
     },
   },
   server: {
-    port: 5000, // Porta padrão para o Render
+    port: 10000, // Porta padrão para o Render
     host: true,  // Permite acesso de rede
   },
 })

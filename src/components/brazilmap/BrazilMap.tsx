@@ -373,13 +373,15 @@ const BrazilMap: React.FC<{
 
 return (
   <svg
-   className="brazil-map w-[615px] h-[640px]"
+   className="brazil-map sm:w-[615px] sm:h-[640px] sm:vieB"
+   viewBox='-15 0 650 650'
    >
     {mapRegions.map((region) => (
       <g key={region.id}>
         <path
+            className='cursor-pointer transition ease-in'
             d={region.d}
-            fill={selectedRegions.includes(region.values)  ? 'lightgreen' : hoveredRegion === region.values ? 'lightgreen' : '#C2DFE3'}
+            fill={selectedRegions.includes(region.values)  ? 'lightgreen' : hoveredRegion === region.id ? 'lightgreen' : '#C2DFE3'}
             stroke="white"
             strokeWidth="1"
             onClick={() => onRegionClick(region.values)}

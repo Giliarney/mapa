@@ -111,12 +111,12 @@ function TableInfos() {
   };
 
   return (
-    <div className="w-full h-full flex flex-col items-center px-4">
-        <div className="w-full">
-            <Table className="w-full">
-            <TableHeader>
-                <TableRow>
-                <TableHead>Produto</TableHead>
+    <div className="sm:w-full h-fit  w-screen flex flex-col items-center">
+        <div className="w-screen">
+            <Table className="">
+            <TableHeader className="bg-slate-600 text-white rounded-[10px]">
+                <TableRow className="px-8">
+                <TableHead className="">Produto</TableHead>
                 <TableHead>NCM</TableHead>
                 <TableHead>Origem</TableHead>
                 <TableHead>Destino</TableHead>
@@ -126,11 +126,11 @@ function TableInfos() {
                 <TableHead>PIS/COFINS</TableHead>
                 </TableRow>
             </TableHeader>
-            <TableBody>
+            <TableBody className="bg-slate-300">
                 {
                     data.length > 0 ? (
                         data.map((item, index) => (
-                            <TableRow key={index} className="hover:bg-slate-200">
+                            <TableRow key={index} className="hover:bg-slate-600 hover:text-white text-center">
                                 <TableCell>{item.Produto}</TableCell>
                                 <TableCell>{item.NCM}</TableCell>
                                 <TableCell>{item.Origem}</TableCell>
@@ -151,7 +151,7 @@ function TableInfos() {
             </Table>
         </div>
 
-        <div className="w-full flex items-center justify-between rounded py-4 px-2 bg-slate-200">
+        <div className="w-screen h-full flex items-center justify-between rounded px-12 py-3 bg-slate-600 text-white">
             <div className="flex items-center justify-between w-64">
                 <div className="flex items-center">
                     <span>Páginas: {totalPages ?? 'Carregando...'}</span>
@@ -162,7 +162,7 @@ function TableInfos() {
             </div>
 
             <div>
-                <Pagination className="w-fit bg-slate-500">
+                <Pagination className="w-fit">
                     <PaginationContent>
 
                     <PaginationItem>

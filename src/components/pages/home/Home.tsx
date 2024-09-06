@@ -41,7 +41,7 @@ function Home() {
   }
 
   return (
-    <div className='w-screen h-screen bg-slate-50'>
+    <div className='w-screen h-screen bg-slate-100'>
       <header className="w-screen h-16 bg-white flex items-center justify-center">
         <div>
           <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-32' />
