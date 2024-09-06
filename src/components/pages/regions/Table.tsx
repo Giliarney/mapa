@@ -33,10 +33,11 @@ function TableInfos() {
   const [totalItems, setTotalItems] = useState<number | null>(null); // Total de itens
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
+  const selectedDestination = searchParams.get("destination");
 
   // Função para carregar a página e capturar o número total de páginas e itens
   const loadPage = async (page: number) => {
-    const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${page}&_limit=15&UF%20Origem=${selectedOrigin}`);
+    const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${page}&_limit=15&UF%20Origem=${selectedOrigin}&UF%20Destino=${selectedDestination}`);
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }

@@ -59,7 +59,7 @@ function Home() {
               
                 <button
                   className='flex justify-between  gap-2'
-                  onClick={() => navigate(`/details?origin=${selectedOrigin}`)}
+                  onClick={() => navigate(`/details?origin=${selectedOrigin}&destination=${selectedDestination}`)}
                 >
                   Ver Informações
                   <CircleChevronRight></CircleChevronRight>
