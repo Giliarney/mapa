@@ -49,9 +49,9 @@ function Home() {
         </div>
       </header>
 
-      <div className='w-screen flex items-center justify-center flex-col py-8 px-8'>
+      <div className='w-screen flex items-center justify-center flex-col py-8 px-8 bg-slate-100'>
         <div>
-          <h1 className='text-3xl'>{buttonText}</h1>
+          <h1 className='text-base sm:text-3xl'>{buttonText}</h1>
         </div>
 
         <div className='py-12 flex gap-2'>
@@ -81,13 +81,12 @@ function Home() {
           )}
         </div>
 
-          <BrazilMap
-            onRegionClick={handleRegionClick}
-            onRegionMouseOver={handleMouseOver}
-            onRegionMouseOut={handleMouseOut}
-            selectedRegions={selectedRegions}
-          />
-          
+            <BrazilMap
+              onRegionClick={handleRegionClick}
+              onRegionMouseOver={handleMouseOver}
+              onRegionMouseOut={handleMouseOut}
+              selectedRegions={selectedRegions}
+            />
       </div>
     </div>
   );
