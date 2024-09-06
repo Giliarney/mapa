@@ -38,6 +38,7 @@ function Home() {
   function clearRegions () {
     setSelectedOrigin(null)
     setSelectedDestination(null)
+    setButtonText('Selecione a Origem')
   }
 
   return (
@@ -48,7 +49,7 @@ function Home() {
         </div>
       </header>
 
-      <div className='flex items-center justify-center flex-col px-8 py-8'>
+      <div className='w-screen flex items-center justify-center flex-col py-8 px-8'>
         <div>
           <h1 className='text-3xl'>{buttonText}</h1>
         </div>
