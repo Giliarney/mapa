@@ -64,7 +64,7 @@ function TableInfos() {
   const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&_limit=15&UF%20Origem=${selectedOrigin}`);
+      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&_limit=15&UF%20Origem=${selectedOrigin}&UF%20Destino=${selectedDestination}`);
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
