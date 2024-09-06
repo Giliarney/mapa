@@ -33,7 +33,7 @@ const RegionPage: React.FC = () => {
         <div className='w-full h-full flex flex-col justify-center items-center relative bg-slate-100'>
           <div className='w-full flex items-center justify-center relative px-4'>
             <Button className='w-12 h-12 rounded-full px-0 py-0 absolute left-4 top-4'>
-              <CircleArrowLeft className='w-14 h-14 p-1 text-slate-400 hover:bg-slate-900 hover:rounded hover:text-white' onClick={() => navigate("/")} />
+              <CircleArrowLeft className='w-14 h-14 text-slate-400 hover:rounded hover:text-slate-600 transition ease-in' onClick={() => navigate("/")} />
             </Button>
             <BrazilMap 
             selectedRegions={selectedRegions}
@@ -50,7 +50,7 @@ const RegionPage: React.FC = () => {
             <div className='flex gap-2 sm:flex sm:items-center sm:gap-2 '>
               <div>
                 <Select>
-                  <SelectTrigger className="w-[100px] rounded ">
+                  <SelectTrigger className="w-[120px] rounded border-slate-300 text-slate-400">
                     <SelectValue placeholder="Produto" />
                   </SelectTrigger>
                   <SelectContent className='bg-slate-100 rounded'>
@@ -63,7 +63,7 @@ const RegionPage: React.FC = () => {
 
               <div>
                 <Select>
-                  <SelectTrigger className="w-[100px] rounded">
+                  <SelectTrigger className="w-[120px] rounded border-slate-300 text-slate-400">
                     <SelectValue placeholder="Origem" />
                   </SelectTrigger>
                   <SelectContent className='bg-slate-100 rounded'>
@@ -76,10 +76,10 @@ const RegionPage: React.FC = () => {
 
               <div>
                 <Select>
-                  <SelectTrigger className="w-[100px] rounded">
+                  <SelectTrigger className="w-[120px] rounded border-slate-300 text-slate-400">
                     <SelectValue placeholder="Destino" />
                   </SelectTrigger>
-                  <SelectContent className='bg-slate-100 rounded'>
+                  <SelectContent className='bg-slate-100 rounded '>
                     <SelectItem value="todos">Todos</SelectItem>
                     <SelectItem value="comercio">Comércio</SelectItem>
                     <SelectItem value="industria">Indústria</SelectItem>
@@ -89,8 +89,8 @@ const RegionPage: React.FC = () => {
             </div>
 
             <div className='w-52 relative flex items-center px-4'>
-              <Search className='absolute right-4'></Search>
-              <Input placeholder='Buscar' className='rounded w-52'>
+              <Search className='absolute right-4 text-slate-400'></Search>
+              <Input placeholder='Buscar' className='rounded w-52 border-slate-300 text-slate-400'>
               </Input>
             </div>
             
