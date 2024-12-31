@@ -34,9 +34,10 @@ function TableInfos() {
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
   const selectedDestination = searchParams.get("destination");
+  const apiSheetURL = "https://sheets.googleapis.com/v4/spreadsheets/1FWcCvbLcX48JUuPZ_j_C03b-WDsyBe67ZXymuXvlXGw/values/teste!A2:H10000?key=AIzaSyBs0S3D-xxLwIvBFvPkb5wF0-9KQxwiI0g"
 
   // Função para carregar a página e capturar o número total de páginas e itens
-  const loadPage = async (page: number) => {
+  {/*const loadPage = async (page: number) => {
     const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${page}&_limit=15&UF%20Origem=${selectedOrigin}&UF%20Destino=${selectedDestination}`);
     if (!response.ok) {
       throw new Error('Network response was not ok');
@@ -58,17 +59,30 @@ function TableInfos() {
     if (data.length > 0) {
       setCurrentPage(page);
     }
-  };
+  };*/}
 
   // Carrega a página atual usando `useQuery`
   const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
     queryKey: ["get-dados", currentPage, selectedOrigin],
     queryFn: async () => {
-      const response = await fetch(`https://api-mapa.vercel.app/dados?_page=${currentPage}&_limit=15&UF%20Origem=${selectedOrigin}&UF%20Destino=${selectedDestination}`);
+      const response = await fetch(apiSheetURL);
+      
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
+
       const data = await response.json();
+
+      const dadosFormatados: Dados[] = data.values.map((linha: string[]) => ({
+        Produto: linha[0],
+        NCM: linha[1],
+        Origem: linha[2],
+        Destino: linha[3],
+        "UF Origem": linha[4],
+        "UF Destino": linha[5],
+        "Pagamento ICMS": parseFloat(linha[6].replace(",", ".")),
+        "Pagamento PIS/COFINS": parseFloat(linha[7].replace(",", "."))
+      }));
 
       // Capturar o total de itens (ou páginas) da resposta
       const totalItemsHeader = response.headers.get("X-Total-Count");
@@ -76,7 +90,6 @@ function TableInfos() {
       if (totalItemsHeader && !totalItems) {
         const total = Number(totalItemsHeader);
         setTotalItems(total);
-
         // Calcular e definir o número total de páginas
         const pages = Math.ceil(total / 15);
         setTotalPages(pages);
@@ -84,7 +97,7 @@ function TableInfos() {
 
       await new Promise(resolve => setTimeout(resolve, 100));
 
-      return data;
+      return dadosFormatados;
     },
     placeholderData: keepPreviousData,
   });
@@ -102,43 +115,45 @@ function TableInfos() {
     return <div>Error: {error.message}</div>;
   }
 
-  const data = dadosResponse || [];
+  const data = selectedOrigin && selectedDestination ? dadosResponse?.filter((dado) => {
+    return dado["UF Origem"] === selectedOrigin && dado["UF Destino"] === selectedDestination;
+  }): dadosResponse || [];
 
-  const handlePageChange = async (page: number) => {
+
+  {/*const handlePageChange = async (page: number) => {
     if (page > 0 && (!totalPages || page <= totalPages)) {
       await loadPage(page);
     }
-  };
+  };*/}
 
   return (
-    <div className="sm:w-full h-fit  w-screen flex flex-col items-center">
-        <div className="w-screen">
-            <Table className="">
-            <TableHeader className="bg-slate-600 text-white rounded-[10px]">
-                <TableRow className="px-8">
-                <TableHead className="">Produto</TableHead>
-                <TableHead>NCM</TableHead>
-                <TableHead>Origem</TableHead>
-                <TableHead>Destino</TableHead>
-                <TableHead>UF Origem</TableHead>
-                <TableHead>UF Destino</TableHead>
-                <TableHead>ICMS</TableHead>
-                <TableHead>PIS/COFINS</TableHead>
+    <div className="flex flex-col items-center">
+            <Table >
+            <TableHeader className="bg-slate-700 text-white rounded-md text-xs sm:text-sm">
+                <TableRow>
+                <TableHead className='min-w-44 text-start'>Produto</TableHead>
+                <TableHead className='min-w-44'>NCM</TableHead>
+                <TableHead className='min-w-44 text-start'>Origem</TableHead>
+                <TableHead className='min-w-32 text-start'>Destino</TableHead>
+                <TableHead className='min-w-32'>UF Origem</TableHead>
+                <TableHead className='min-w-32'>UF Destino</TableHead>
+                <TableHead className='min-w-32'>ICMS</TableHead>
+                <TableHead className='min-w-32'>PIS/COFINS</TableHead>
                 </TableRow>
             </TableHeader>
-            <TableBody className="bg-slate-300">
+            <TableBody className="bg-slate-50">
                 {
-                    data.length > 0 ? (
-                        data.map((item, index) => (
-                            <TableRow key={index} className="hover:bg-slate-600 hover:text-white text-center">
+                    data? (
+                        data?.map((item, index) => (
+                            <TableRow key={index} className="hover:bg-slate-700 hover:text-white text-xs sm:text-sm">
                                 <TableCell>{item.Produto}</TableCell>
-                                <TableCell>{item.NCM}</TableCell>
+                                <TableCell className="text-center">{item.NCM}</TableCell>
                                 <TableCell>{item.Origem}</TableCell>
                                 <TableCell>{item.Destino}</TableCell>
-                                <TableCell>{item["UF Origem"]}</TableCell>
-                                <TableCell>{item["UF Destino"]}</TableCell>
-                                <TableCell>{item["Pagamento ICMS"]} %</TableCell>
-                                <TableCell>{item["Pagamento PIS/COFINS"]} %</TableCell>
+                                <TableCell className="text-center">{item["UF Origem"]}</TableCell>
+                                <TableCell className="text-center">{item["UF Destino"]}</TableCell>
+                                <TableCell className="text-center">{item["Pagamento ICMS"]} %</TableCell>
+                                <TableCell className="text-center">{item["Pagamento PIS/COFINS"]} %</TableCell>
                             </TableRow>
                         ))
                     ) : (
@@ -149,28 +164,24 @@ function TableInfos() {
                }
             </TableBody>
             </Table>
-        </div>
 
-        <div className="w-screen h-full flex items-center justify-between rounded px-12 py-3 bg-slate-600 text-white">
-            <div className="flex items-center justify-between w-64">
-                <div className="flex items-center">
-                    <span>Páginas: {totalPages ?? 'Carregando...'}</span>
-                </div>
-                <div className="flex items-center">
-                    <span>Total de Itens: {totalItems ?? 'Carregando...'}</span>
-                </div>
+
+        <div className="w-full sm:flex-row flex-col h-full flex items-center justify-between rounded py-3 bg-slate-700 text-white">
+            <div className="flex p-4 items-center w-full justify-between text-xs sm:text-sm">
+              <span>Páginas: <span className="text-white">{totalPages ?? 'Carregando...'}</span></span>
+              <span>Total de Itens: <span className="text-white">{totalItems ?? 'Carregando...'}</span></span>
             </div>
 
-            <div>
-                <Pagination className="w-fit">
+            <div className="h-full w-full">
+                <Pagination>
                     <PaginationContent>
 
-                    <PaginationItem>
+                    <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm">
                         <PaginationPrevious
                         href="#"
-                        onClick={() => handlePageChange(Math.max(currentPage - 1, 1))}
                         className={currentPage === 1 ? "disabled" : ""}
                         aria-disabled={currentPage === 1}
+                        onClick={() => currentPage === 1 ? "" : setCurrentPage(-1)}
                         />
                     </PaginationItem>
 
@@ -183,12 +194,12 @@ function TableInfos() {
                         </PaginationLink>
                     </PaginationItem>
 
-                    <PaginationItem>
+                    <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm"> 
                         <PaginationNext
                         href="#"
-                        onClick={() => handlePageChange(currentPage + 1)}
                         className={(!totalPages || currentPage >= totalPages) ? "disabled" : ""}
                         aria-disabled={(!totalPages || currentPage >= totalPages)}
+                        onClick={() => setCurrentPage(+1)}
                         />
                     </PaginationItem>
 

@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import BrazilMap from '@/components/brazilmap/BrazilMap';
-import {CircleChevronRight} from "lucide-react"
+import BrazilMap from '@/components/pages/home/mapHomePage/BrazilMap';
+import { CircleChevronRight } from "lucide-react"
+import { Button } from "@/components/ui/button"
 
 function Home() {
   const navigate = useNavigate();
@@ -57,35 +58,34 @@ function Home() {
         <div className='w-full items-center justify-center h-12 py-12 flex gap-2 sm:w-[360px] sm:items-center sm:justify-center'>
           {selectedOrigin && selectedDestination && (
             <div className='hover:text-slate-50'>
-                <button
-                  className='flex justify-center sm:gap-2 sm:text-base text-slate-700 h-10 w-36 sm:h-[48px] sm:w-[180px] items-center bg-slate-200 hover:bg-slate-900 hover:text-slate-50 rounded-2xl text-base'
-                  onClick={() => navigate(`/details?origin=${selectedOrigin}&destination=${selectedDestination}`)}
-                >
-                  Ver Informações
-                  <CircleChevronRight className='hidden sm:flex text-slate-500'></CircleChevronRight>
-
-                </button>
+              <Button
+                className='flex justify-center sm:gap-2 sm:text-base text-slate-700 h-10 w-36 sm:h-[48px] sm:w-[180px] items-center bg-slate-200 hover:bg-slate-700 hover:text-white rounded-2xl text-base'
+                onClick={() => navigate(`/details?origin=${selectedOrigin}&destination=${selectedDestination}`)}
+              >
+                Ver Informações
+                <CircleChevronRight className='hidden sm:flex'></CircleChevronRight>
+              </Button>
             </div>
           )}
 
           {selectedOrigin && selectedDestination && (              
             <div>
-                <button
-                  className='text-slate-700 h-10 w-32 sm:h-[48px] sm:w-[80px] text-sm border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl sm:text-base'
-                  onClick={clearRegions}
-                >
-                  Limpar
-                </button>
+              <Button
+                className='text-slate-700 h-10 w-32 sm:h-[48px] sm:w-[80px] text-sm border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl sm:text-base'
+                onClick={clearRegions}
+              >
+                Limpar
+              </Button>
             </div>
           )}
         </div>
 
-            <BrazilMap
-              onRegionClick={handleRegionClick}
-              onRegionMouseOver={handleMouseOver}
-              onRegionMouseOut={handleMouseOut}
-              selectedRegions={selectedRegions}
-            />
+        <BrazilMap
+          onRegionClick={handleRegionClick}
+          onRegionMouseOver={handleMouseOver}
+          onRegionMouseOut={handleMouseOut}
+          selectedRegions={selectedRegions}
+        />
       </div>
     </div>
   );
