@@ -16,15 +16,14 @@ export interface responseDados {
 }
 
 export interface Dados {
-  Produto: string;
-  NCM: string;
-  Origem: string;
-  Destino: string;
+  "Produto": string;
+  "NCM": string;
+  "Origem": string;
+  "Destino": string;
   "UF Origem": string;
   "UF Destino": string;
   "Pagamento ICMS": number;
   "Pagamento PIS/COFINS": number;
-  id: string;
 }
 
 function TableInfos() {
@@ -34,7 +33,9 @@ function TableInfos() {
   const [searchParams] = useSearchParams();
   const selectedOrigin = searchParams.get("origin");
   const selectedDestination = searchParams.get("destination");
-  const apiSheetURL = "https://sheets.googleapis.com/v4/spreadsheets/1FWcCvbLcX48JUuPZ_j_C03b-WDsyBe67ZXymuXvlXGw/values/teste!A2:H10000?key=AIzaSyBs0S3D-xxLwIvBFvPkb5wF0-9KQxwiI0g"
+  const idSheetsApi = process.env.REACT_APP_API_SHEET_ID_URL;
+  const keyAPI = process.env.REACT_APP_API_KEY;
+  const apiIcmsSheetURL = `https://sheets.googleapis.com/v4/spreadsheets/${idSheetsApi}/values/dados?key=${keyAPI}`
 
   // Função para carregar a página e capturar o número total de páginas e itens
   {/*const loadPage = async (page: number) => {
@@ -63,9 +64,9 @@ function TableInfos() {
 
   // Carrega a página atual usando `useQuery`
   const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
-    queryKey: ["get-dados", currentPage, selectedOrigin],
+    queryKey: ["get-dados", currentPage, selectedOrigin,selectedDestination],
     queryFn: async () => {
-      const response = await fetch(apiSheetURL);
+      const response = await fetch(apiIcmsSheetURL);
       
       if (!response.ok) {
         throw new Error('Network response was not ok');
@@ -74,10 +75,10 @@ function TableInfos() {
       const data = await response.json();
 
       const dadosFormatados: Dados[] = data.values.map((linha: string[]) => ({
-        Produto: linha[0],
-        NCM: linha[1],
-        Origem: linha[2],
-        Destino: linha[3],
+        "Produto": linha[0],
+        "NCM": linha[1],
+        "Origem": linha[2],
+        "Destino": linha[3],
         "UF Origem": linha[4],
         "UF Destino": linha[5],
         "Pagamento ICMS": parseFloat(linha[6].replace(",", ".")),
