@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/details/:path*",
+        "destination": "/"
+      }
+    ]
+  }
+  
