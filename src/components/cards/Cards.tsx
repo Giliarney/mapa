@@ -85,7 +85,7 @@ function Cards() {
         "Pagamento PIS/COFINS": linha[7] || 0,
       })) || [];
 
-      await new Promise(resolve => setTimeout(resolve, 3000));
+      await new Promise(resolve => setTimeout(resolve, 2000));
 
       return dadosFormatados;
     },
@@ -109,7 +109,7 @@ function Cards() {
         "ImagemURL": linha[2] || "",
       })) || [];
 
-      await new Promise(resolve => setTimeout(resolve, 1500));
+      await new Promise(resolve => setTimeout(resolve, 500));
 
       return dadosFormatados;
     },
