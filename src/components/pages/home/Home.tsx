@@ -26,9 +26,9 @@ function Home() {
 
   };
 
-  const handleMouseOver = () => {};
+  const handleMouseOver = () => { };
 
-  const handleMouseOut = () => {};
+  const handleMouseOut = () => { };
 
   // Filtra valores nulos antes de passar para o BrazilMap
   const selectedRegions = [
@@ -36,7 +36,7 @@ function Home() {
     ...(selectedDestination ? [selectedDestination] : [])
   ];
 
-  function clearRegions () {
+  function clearRegions() {
     setSelectedOrigin(null)
     setSelectedDestination(null)
     setButtonText('Selecione a Origem')
@@ -44,9 +44,9 @@ function Home() {
 
   return (
     <div className='w-screen h-screen bg-slate-100'>
-      <header className="w-screen h-16 bg-white flex items-center justify-center">
+      <header className="w-screen h-16 bg-white flex items-center justify-center border-b-[#3b3b3b2a] border">
         <div>
-          <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-32' />
+          <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-28' />
         </div>
       </header>
 
@@ -68,7 +68,7 @@ function Home() {
             </div>
           )}
 
-          {selectedOrigin && selectedDestination && (              
+          {selectedOrigin && selectedDestination && (
             <div>
               <Button
                 className='text-slate-700 h-10 w-32 sm:h-[48px] sm:w-[80px] text-sm border bg-slate-200 hover:bg-red-500 hover:text-slate-50 rounded-2xl sm:text-base'

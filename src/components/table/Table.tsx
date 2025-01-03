@@ -1,4 +1,4 @@
-import { useState} from "react";
+import { useState } from "react";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
 import { keepPreviousData, useQuery } from "@tanstack/react-query";
@@ -64,10 +64,10 @@ function TableInfos() {
 
   // Carrega a página atual usando `useQuery`
   const { data: dadosResponse, isLoading, error } = useQuery<Dados[]>({
-    queryKey: ["get-dados", currentPage, selectedOrigin,selectedDestination],
+    queryKey: ["get-dados", currentPage, selectedOrigin, selectedDestination],
     queryFn: async () => {
       const response = await fetch(apiIcmsSheetURL);
-      
+
       if (!response.ok) {
         throw new Error('Network response was not ok');
       }
@@ -118,7 +118,7 @@ function TableInfos() {
 
   const data = selectedOrigin && selectedDestination ? dadosResponse?.filter((dado) => {
     return dado["UF Origem"] === selectedOrigin && dado["UF Destino"] === selectedDestination;
-  }): dadosResponse || [];
+  }) : dadosResponse || [];
 
 
   {/*const handlePageChange = async (page: number) => {
@@ -129,85 +129,85 @@ function TableInfos() {
 
   return (
     <div className="flex flex-col items-center">
-            <Table >
-            <TableHeader className="bg-slate-700 text-white rounded-md text-xs sm:text-sm">
-                <TableRow>
-                <TableHead className='min-w-44 text-start'>Produto</TableHead>
-                <TableHead className='min-w-44'>NCM</TableHead>
-                <TableHead className='min-w-44 text-start'>Origem</TableHead>
-                <TableHead className='min-w-32 text-start'>Destino</TableHead>
-                <TableHead className='min-w-32'>UF Origem</TableHead>
-                <TableHead className='min-w-32'>UF Destino</TableHead>
-                <TableHead className='min-w-32'>ICMS</TableHead>
-                <TableHead className='min-w-32'>PIS/COFINS</TableHead>
+      <Table >
+        <TableHeader className="bg-slate-700 text-white rounded-md text-xs sm:text-sm">
+          <TableRow>
+            <TableHead className='min-w-44 text-start'>Produto</TableHead>
+            <TableHead className='min-w-44'>NCM</TableHead>
+            <TableHead className='min-w-44 text-start'>Origem</TableHead>
+            <TableHead className='min-w-32 text-start'>Destino</TableHead>
+            <TableHead className='min-w-32'>UF Origem</TableHead>
+            <TableHead className='min-w-32'>UF Destino</TableHead>
+            <TableHead className='min-w-32'>ICMS</TableHead>
+            <TableHead className='min-w-32'>PIS/COFINS</TableHead>
+          </TableRow>
+        </TableHeader>
+        <TableBody className="bg-slate-50">
+          {
+            data ? (
+              data?.map((item, index) => (
+                <TableRow key={index} className="hover:bg-slate-700 hover:text-white text-xs sm:text-sm">
+                  <TableCell>{item.Produto}</TableCell>
+                  <TableCell className="text-center">{item.NCM}</TableCell>
+                  <TableCell>{item.Origem}</TableCell>
+                  <TableCell>{item.Destino}</TableCell>
+                  <TableCell className="text-center">{item["UF Origem"]}</TableCell>
+                  <TableCell className="text-center">{item["UF Destino"]}</TableCell>
+                  <TableCell className="text-center">{item["Pagamento ICMS"]} %</TableCell>
+                  <TableCell className="text-center">{item["Pagamento PIS/COFINS"]} %</TableCell>
                 </TableRow>
-            </TableHeader>
-            <TableBody className="bg-slate-50">
-                {
-                    data? (
-                        data?.map((item, index) => (
-                            <TableRow key={index} className="hover:bg-slate-700 hover:text-white text-xs sm:text-sm">
-                                <TableCell>{item.Produto}</TableCell>
-                                <TableCell className="text-center">{item.NCM}</TableCell>
-                                <TableCell>{item.Origem}</TableCell>
-                                <TableCell>{item.Destino}</TableCell>
-                                <TableCell className="text-center">{item["UF Origem"]}</TableCell>
-                                <TableCell className="text-center">{item["UF Destino"]}</TableCell>
-                                <TableCell className="text-center">{item["Pagamento ICMS"]} %</TableCell>
-                                <TableCell className="text-center">{item["Pagamento PIS/COFINS"]} %</TableCell>
-                            </TableRow>
-                        ))
-                    ) : (
-                        <TableRow>
-                            <TableCell colSpan={8} className="text-center">Nenhum dado encontrado</TableCell>
-                        </TableRow>
-                    )
-               }
-            </TableBody>
-            </Table>
+              ))
+            ) : (
+              <TableRow>
+                <TableCell colSpan={8} className="text-center">Nenhum dado encontrado</TableCell>
+              </TableRow>
+            )
+          }
+        </TableBody>
+      </Table>
 
 
-        <div className="w-full sm:flex-row flex-col h-full flex items-center justify-between rounded py-3 bg-slate-700 text-white">
-            <div className="flex p-4 items-center w-full justify-between text-xs sm:text-sm">
-              <span>Páginas: <span className="text-white">{totalPages ?? 'Carregando...'}</span></span>
-              <span>Total de Itens: <span className="text-white">{totalItems ?? 'Carregando...'}</span></span>
-            </div>
-
-            <div className="h-full w-full">
-                <Pagination>
-                    <PaginationContent>
-
-                    <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm">
-                        <PaginationPrevious
-                        href="#"
-                        className={currentPage === 1 ? "disabled" : ""}
-                        aria-disabled={currentPage === 1}
-                        onClick={() => currentPage === 1 ? "" : setCurrentPage(-1)}
-                        />
-                    </PaginationItem>
-
-                    <PaginationItem>
-                        <PaginationLink
-                            href="#"
-                            className={currentPage ? "active" : ""}
-                        >
-                            {currentPage}
-                        </PaginationLink>
-                    </PaginationItem>
-
-                    <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm"> 
-                        <PaginationNext
-                        href="#"
-                        className={(!totalPages || currentPage >= totalPages) ? "disabled" : ""}
-                        aria-disabled={(!totalPages || currentPage >= totalPages)}
-                        onClick={() => setCurrentPage(+1)}
-                        />
-                    </PaginationItem>
-
-                    </PaginationContent>
-                </Pagination>
-            </div>
+      <div className="w-full sm:flex-row flex-col h-full flex items-center justify-between rounded py-3 bg-slate-700 text-white">
+        <div className="flex p-4 items-center w-full justify-between text-xs sm:text-sm">
+          <span>Páginas: <span className="text-white">{totalPages ?? 'Carregando...'}</span></span>
+          <span>Total de Itens: <span className="text-white">{totalItems ?? 'Carregando...'}</span></span>
         </div>
+
+        <div className="h-full w-full">
+          <Pagination>
+            <PaginationContent>
+
+              <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm">
+                <PaginationPrevious
+                  href="#"
+                  className={currentPage === 1 ? "disabled" : ""}
+                  aria-disabled={currentPage === 1}
+                  onClick={() => currentPage === 1 ? "" : setCurrentPage(-1)}
+                />
+              </PaginationItem>
+
+              <PaginationItem>
+                <PaginationLink
+                  href="#"
+                  className={currentPage ? "active" : ""}
+                >
+                  {currentPage}
+                </PaginationLink>
+              </PaginationItem>
+
+              <PaginationItem className="hover:bg-white hover:text-slate-700 rounded-[10px] transition-all text-xs sm:text-sm">
+                <PaginationNext
+                  href="#"
+                  className={(!totalPages || currentPage >= totalPages) ? "disabled" : ""}
+                  aria-disabled={(!totalPages || currentPage >= totalPages)}
+                  onClick={() => setCurrentPage(+1)}
+                />
+              </PaginationItem>
+
+            </PaginationContent>
+          </Pagination>
+        </div>
+      </div>
     </div>
   );
 }
