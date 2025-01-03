@@ -6,7 +6,6 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue, } from "
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from "@/components/ui/pagination";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger, } from "@/components/ui/tooltip"
 import { Skeleton } from "@/components/ui/skeleton"
-import Link from "next/link"
 
 export function SkeletonDemo() {
   return (
@@ -360,13 +359,13 @@ function Cards() {
                   <PaginationItem
 
                   >
-                    <Link className={`${currentPage === 1 ? "text-gray-400 cursor-not-allowed p-3" :
+                    <a className={`${currentPage === 1 ? "text-gray-400 cursor-not-allowed p-3" :
                       "flex items-center justify-center hover:bg-[#282828] hover:border-[#3f3f3f] hover:rounded-xl p-3 hover:cursor-pointer"
                       }`}
                       onClick={handleFirstPage}>
                       <ChevronFirst className="w-4 h-4"
                       ></ChevronFirst>
-                    </Link>
+                    </a>
 
                   </PaginationItem>
                 </TooltipTrigger>
@@ -429,12 +428,12 @@ function Cards() {
                   <PaginationItem
 
                   >
-                    <Link className={`${currentPage === totalPages ? "text-gray-400 cursor-not-allowed p-3" :
+                    <a className={`${currentPage === totalPages ? "text-gray-400 cursor-not-allowed p-3" :
                       "flex items-center justify-center hover:bg-[#282828] hover:border-[#3f3f3f] hover:rounded-xl hover:cursor-pointer p-3"
                       }`}
                       onClick={currentPage === totalPages ? undefined : handleLastPage}>
                       <ChevronLast className="w-4 h-4"></ChevronLast>
-                    </Link>
+                    </a>
                   </PaginationItem>
                 </TooltipTrigger>
                 <TooltipContent side='top' className="rounded-[5px] bg-[#3f3f3f]">Última Página</TooltipContent>
