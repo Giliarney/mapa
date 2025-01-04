@@ -432,10 +432,10 @@ function Cards() {
         </section> :
         <div className="w-full h-full flex flex-col items-center justify-center
             bg-white rounded-xl">
-          <div className="w-full h-full flex flex-col items-center justify-center pt-14"
+          <div className="w-full h-full flex flex-col items-center justify-center md:pt-14"
            >
-            <img className="w-fit h-[534px] select-none" src="https://i.imgur.com/tI5G1TR.jpeg" alt="" />
-            <div className="h-[144px] text-xl flex flex-col items-center select-none ">
+            <img className="w-fit h-[534px] select-none hidden sm:flex" src="https://i.imgur.com/tI5G1TR.jpeg" alt="" />
+            <div className="h-[144px] text-base md:text-xl flex flex-col justify-center md:justify-normal items-center select-none ">
               <span>
                 Não há dados para esta consulta
               </span>
