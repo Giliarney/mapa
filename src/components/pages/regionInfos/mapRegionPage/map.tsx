@@ -370,7 +370,7 @@ const  BrazilMap: React.FC<{
 return (
   <svg
     viewBox="-20 -5 650 650"
-    className="brazil-map p-4 w-[420px] lg:w-[560px]"
+    className="brazil-map p-4"
    >
     {mapRegions.map((region) => (
       <g key={region.id}>

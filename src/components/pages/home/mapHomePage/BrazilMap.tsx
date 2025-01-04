@@ -404,7 +404,7 @@ const handleMouseOut = () => {
 return (
   <>
     <svg
-      className="brazil-map w-[320px] h-[355px] sm:w-[420px] sm:h-[455px] md:w-[615px] md:h-[640px]"
+      className="brazil-map w-[320px] h-[340px] sm:w-[420px] sm:h-[455px] lg:w-[615px] lg:h-[640px]"
       viewBox='-15 0 650 650'
     >
       {mapRegions && mapRegions.map((region) => (
