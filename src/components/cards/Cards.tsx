@@ -8,18 +8,6 @@ import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger, } from "@/com
 import { Skeleton } from "@/components/ui/skeleton"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 
-export function SkeletonDemo() {
-  return (
-    <div className="flex items-center space-x-4">
-      <Skeleton className="h-12 w-12 rounded-full" />
-      <div className="space-y-2">
-        <Skeleton className="h-4 w-[250px]" />
-        <Skeleton className="h-4 w-[200px]" />
-      </div>
-    </div>
-  )
-}
-
 export interface responseDados {
   first: number;
   prev: number | null;
@@ -61,7 +49,7 @@ function Cards() {
   const [selectedProduct, setSelectedProduct] = useState<string | null>(null);
   const [selectOrigin, setSelectedOrigin] = useState<string | null>(null);
   const [selectDestination, setSelectedDestination] = useState<string | null>(null);
-  const [selectView, setSelectedView] = useState<string | null>('cards');
+  const [selectView, setSelectedView] = useState<string | null>('table');
   const [filterChanged, setFilterChanged] = useState(false);
 
 
@@ -119,23 +107,6 @@ function Cards() {
     placeholderData: keepPreviousData,
   });
 
-  if (isLoading) {
-    return (
-      <div className="w-full h-full flex items-center justify-center">
-        <Skeleton className=" flex flex-wrap gap-5 w-full items-center justify-center">
-          {Array.from({ length: itemsPerPageCards }).map((_, index) => (
-            <Skeleton key={index} className="w-[595px] h-[211px] bg-[#3b3b3b25] animate-pulse rounded-xl" />
-          ))}
-        </Skeleton >
-      </div>
-
-    );
-  }
-
-  if (error) {
-    return <div>Error: {error.message}</div>;
-  }
-
   // Combine os dados usando o nome do produto como chave
   const combinedData = dadosResponse?.map((dado) => {
     const produtoInfo = dadosProducts?.find((prod) => prod.Produto?.toLowerCase() == dado.Produto?.toLowerCase());
@@ -165,14 +136,93 @@ function Cards() {
       setCurrentPage(1);
       setFilterChanged(false); // Resete o estado de mudança de filtro
     }
-  
+
     const totalItemsHeader = filteredData.length;
     if (totalItemsHeader) {
       setTotalItems(totalItemsHeader);
       setTotalPages(Math.ceil(totalItemsHeader / (selectView === "cards" ? itemsPerPageCards : itemsPerPageTable)));
     }
   }, [filteredData, selectView, filterChanged]);
-  
+
+  if (isLoading) {
+    return (
+      selectView === "cards" ?
+        <div className="flex flex-wrap gap-4 justify-between bg-[#ebebeb] px-3 py-[18px] border-2">
+        
+            <header className="w-full grid grid-cols-1 items-center justify-center">
+              <div className='w-full flex items-center justify-center pb-4'>
+                <Skeleton  className='w-[30px] h-[30px]'/>
+              </div>
+              <div className='sm:grid-cols-2 md:grid-cols-4 w-full flex flex-col items-center gap-3 sm:grid relative'>
+                <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+                <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+                <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+
+                <div className="lg:w-fit flex sm:absolute sm:right-0 sm:bottom-0 gap-2">
+                  <Skeleton className="w-[40px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl"></Skeleton>
+                  <Skeleton className="w-[40px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl"></Skeleton>
+                </div>
+              </div>
+            
+            </header>
+
+      
+          <Skeleton className="xl:min-h-[733px] w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-2 
+          grid-rows-3 lg:grid-rows-2 gap-2 lg:gap-4 border border-[#3b3b3b10] p-2 lg:p-3 rounded-xl bg-[#3b3b3b10]
+          2xl:grid-rows-3
+          ">
+            {Array.from({ length: itemsPerPageCards }).map((_, index) => (
+              <Skeleton key={index} className="w-[630px] h-[225px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+            ))}
+          </Skeleton >
+
+          <Skeleton className="w-full h-fit xl:h-72 md:flex-row flex flex-col-reverse 
+            lg:flex items-center justify-center md:justify-between rounded-[8px] xl:max-h-16 p-4 bg-[#3b3b3b10] text-white">
+          </Skeleton >
+        </div>
+      :
+
+      <div className="flex flex-wrap gap-4 justify-between bg-[#ebebeb] px-3 py-[18px] border-2">
+        
+      <header className="w-full grid grid-cols-1 items-center justify-center">
+        <div className='w-full flex items-center justify-center pb-4'>
+          <Skeleton  className='w-[30px] h-[30px]'/>
+        </div>
+        <div className='sm:grid-cols-2 md:grid-cols-4 w-full flex flex-col items-center gap-3 sm:grid relative'>
+          <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+          <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+          <Skeleton className="w-[300px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl" />
+
+          <div className="lg:w-fit flex sm:absolute sm:right-0 sm:bottom-0 gap-2">
+            <Skeleton className="w-[40px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl"></Skeleton>
+            <Skeleton className="w-[40px] h-[40px] bg-[#3b3b3b10] animate-pulse rounded-xl"></Skeleton>
+          </div>
+        </div>
+      
+      </header>
+
+
+    <Skeleton className="xl:min-h-[733px] w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-2 
+    grid-rows-3 lg:grid-rows-2 gap-2 lg:gap-4  p-2 lg:p-3 rounded-xl bg-[#3b3b3b10]
+    2xl:grid-rows-3
+    ">
+      
+
+    </Skeleton >
+
+    <Skeleton className="w-full h-fit xl:h-72 md:flex-row flex flex-col-reverse 
+      lg:flex items-center justify-center md:justify-between rounded-[8px] xl:max-h-16 p-4 bg-[#3b3b3b10] text-white">
+    </Skeleton >
+  </div>
+
+
+    );
+  }
+
+  if (error) {
+    return <div>Error: {error.message}</div>;
+  }
+
   const uniqueData = data.filter((value, index, self) =>
     index === self.findIndex((t) =>
       t.Produto == value.Produto && t["Origem"] == value["Origem"] && t["Destino"] == value["Destino"]
@@ -231,65 +281,66 @@ function Cards() {
     setFilterChanged(true); // Marque que o filtro foi alterado
   };
 
+
   return (
     <div className="flex flex-wrap gap-4 justify-between bg-[#ebebeb] px-3 py-[18px] border-2">
       <header className="w-full grid grid-cols-1 items-center justify-center">
 
-        <div className='w-full flex items-center justify-center pb-4'>
+        <div className='w-full min-h-12 flex items-center justify-center pb-4'>
           <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-24 select-none' />
         </div>
 
         <div className='sm:grid-cols-2 md:grid-cols-4 w-full flex flex-col items-center gap-3 sm:grid relative'>
-        <Select onValueChange={(value) => {
-  setSelectedProduct(value === "todos-produtos" ? null : value);
-  handleFilterChange(); // Redefine a página ao alterar o filtro
-}}>
-  <SelectTrigger className="rounded text-white bg-[#282828]">
-    <SelectValue placeholder="Produto" />
-  </SelectTrigger>
-  <SelectContent className="rounded bg-white text-[#282828]">
-    <SelectItem value="todos-produtos">Todos</SelectItem>
-    {productOptions.map((produto, index) => (
-      <SelectItem key={index} value={String(produto)}>{produto}</SelectItem>
-    ))}
-  </SelectContent>
-</Select>
+          <Select onValueChange={(value) => {
+            setSelectedProduct(value === "todos-produtos" ? null : value);
+            handleFilterChange(); // Redefine a página ao alterar o filtro
+          }}>
+            <SelectTrigger className="rounded text-white bg-[#282828]">
+              <SelectValue placeholder="Produto" />
+            </SelectTrigger>
+            <SelectContent className="rounded bg-white text-[#282828]">
+              <SelectItem value="todos-produtos">Todos</SelectItem>
+              {productOptions.map((produto, index) => (
+                <SelectItem key={index} value={String(produto)}>{produto}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
 
-<Select onValueChange={(value) => {
-  setSelectedOrigin(value === "todas-origens" ? null : value);
-  handleFilterChange(); // Redefine a página ao alterar o filtro
-}}>
-  <SelectTrigger className="rounded text-white bg-[#282828]">
-    <SelectValue placeholder="Origem" />
-  </SelectTrigger>
-  <SelectContent className="rounded bg-white text-[#282828]">
-    <SelectItem value="todas-origens">Todos</SelectItem>
-    {originOptions.map((origem, index) => (
-      <SelectItem key={index} value={String(origem)}>{origem}</SelectItem>
-    ))}
-  </SelectContent>
-</Select>
+          <Select onValueChange={(value) => {
+            setSelectedOrigin(value === "todas-origens" ? null : value);
+            handleFilterChange(); // Redefine a página ao alterar o filtro
+          }}>
+            <SelectTrigger className="rounded text-white bg-[#282828]">
+              <SelectValue placeholder="Origem" />
+            </SelectTrigger>
+            <SelectContent className="rounded bg-white text-[#282828]">
+              <SelectItem value="todas-origens">Todos</SelectItem>
+              {originOptions.map((origem, index) => (
+                <SelectItem key={index} value={String(origem)}>{origem}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
 
-<Select onValueChange={(value) => {
-  setSelectedDestination(value === "todos-destinos" ? null : value);
-  handleFilterChange(); // Redefine a página ao alterar o filtro
-}}>
-  <SelectTrigger className="rounded text-white bg-[#282828]">
-    <SelectValue placeholder="Destino" />
-  </SelectTrigger>
-  <SelectContent className="rounded bg-white text-[#282828]">
-    <SelectItem value="todos-destinos">Todos</SelectItem>
-    {destinationOptions.map((destino, index) => (
-      <SelectItem key={index} value={String(destino)}>{destino}</SelectItem>
-    ))}
-  </SelectContent>
-</Select>
+          <Select onValueChange={(value) => {
+            setSelectedDestination(value === "todos-destinos" ? null : value);
+            handleFilterChange(); // Redefine a página ao alterar o filtro
+          }}>
+            <SelectTrigger className="rounded text-white bg-[#282828]">
+              <SelectValue placeholder="Destino" />
+            </SelectTrigger>
+            <SelectContent className="rounded bg-white text-[#282828]">
+              <SelectItem value="todos-destinos">Todos</SelectItem>
+              {destinationOptions.map((destino, index) => (
+                <SelectItem key={index} value={String(destino)}>{destino}</SelectItem>
+              ))}
+            </SelectContent>
+          </Select>
           {/*<div className='w-full relative flex items-center'>
             <Search className='absolute right-3 text-slate-500'></Search>
             <Input placeholder='Buscar' className='rounded bg-[#282828]  text-slate-700'></Input>
             </div>*/}
           <TooltipProvider>
-            <div className="lg:w-fit flex sm:absolute sm:right-0 sm:bottom-0">
+            <div className="lg:w-fit flex sm:absolute sm:right-0 sm:bottom-0 gap-2">
               <div className={selectView === "cards" ?
                 "p-2 hover:bg-[#3b3b3b25] text-[#282828] w-fit rounded-[6px] hover:cursor-pointer transition-all" :
                 "p-2 bg-[#282828] text-white w-fit rounded-[6px] hover:cursor-pointer transition-all"
@@ -324,6 +375,7 @@ function Cards() {
       </header>
 
       {
+        
         filteredData.length === 0 ?
           <div className="w-full h-full flex flex-col items-center justify-center
           bg-white rounded-xl">
@@ -340,7 +392,7 @@ function Cards() {
 
           </div> :
           selectView === "table" ?
-            <section className="w-full gap-4 border border-[#3b3b3b25] rounded-xl">
+            <section className="w-full xl:min-h-[733px]  grid grid-cols-1 gap-4 border border-[#3b3b3b25] rounded-xl">
               <Table className="w-full h-full rounded-xl">
                 <TableHeader className="bg-[#282828] text-white rounded-md text-xs sm:text-sm">
                   <TableRow className="">

@@ -31,7 +31,7 @@ const RegionPage: React.FC = () => {
 
           <div className='w-full flex flex-col-reverse xl:flex-col justify-center items-center relative'>
 
-            <div className='flex w-fit px-4 lg:py-2 items-center justify-center gap-4 xl:text-base
+            <div className='flex w-fit px-4 sm:py-1 lg:py-2 items-center justify-center gap-4 xl:text-base
               rounded-[8px] border border-[#7a7a7a] bg-[#282828] text-xs sm:text-base '
             >
               <h1 className="text-[white]">Estado Origem: <span className='text-[#FCA311]'>{selectedOrigin}</span></h1>
