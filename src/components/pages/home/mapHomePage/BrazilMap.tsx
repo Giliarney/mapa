@@ -404,7 +404,7 @@ const handleMouseOut = () => {
 return (
   <>
     <svg
-      className="brazil-map w-[320px] h-[340px] sm:w-[420px] sm:h-[455px] lg:w-[615px] lg:h-[640px]"
+      className="brazil-map w-[320px] h-[340px] sm:w-[420px] sm:h-[455px] md:w-[540px] md:h-[620px] lg:w-[615px] lg:h-[640px] overflow-hidden"
       viewBox='-15 0 650 650'
     >
       {mapRegions && mapRegions.map((region) => (
@@ -435,7 +435,7 @@ return (
       <TooltipProvider>
         <Tooltip>
           <TooltipTrigger asChild>
-            <span style={{ position: 'absolute', left: `${tooltipPosition.x}px`, top: `${tooltipPosition.y}px` }} className='w-full'>
+            <span style={{ position: 'absolute', left: `${tooltipPosition.x}px`, top: `${tooltipPosition.y}px` }}>
               <span className="tooltip-content bg-slate-200 p-2 rounded text-sm font-medium">{tooltipContent}</span>
             </span>
           </TooltipTrigger>

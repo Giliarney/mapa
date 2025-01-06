@@ -47,9 +47,9 @@ function Home() {
   }
 
   return (
-    <div className='bg-slate-100 flex flex-col justify-center items-center'>
-      <div className='w-screen h-screen flex items-center lg:justify-center flex-col py-8 px-8 gap-2 xl:gap-4 relative overflow-hidden'>
-        <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-28 absolute top-12' />
+    <div className='bg-slate-100 flex flex-col justify-center items-center overflow-hidden'>
+      <div className='w-screen h-screen flex items-center md:justify-center flex-col py-8 px-8 gap-2 xl:gap-4 overflow-hidden'>
+        <img src="https://i.imgur.com/ChvkVE0.png" alt="" className='w-28 py-8 ' />
         <div className='flex items-center h-12 justify-center w-full'>
         <div className=''>
           <h1 className={(buttonTitle) === 'hidden' ? "hidden transition-all" : "text-base sm:text-xl lg:text-2xl  xl:text-3xl"}>{buttonText}</h1>
